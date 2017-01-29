@@ -16,6 +16,7 @@ img {
 }
 body {
 	background-color: grey;
+	 margin-left: 5px;
 }
 h1 {
 	text-align: center;
@@ -33,6 +34,11 @@ h1 {
 	border-color: grey;
 	border-top-color: #ACF1D2;
 }
+.slide{
+	border-color: grey;
+	border-bottom-color: #ACF1D2;
+	margin-bottom: 20px;
+	}
 h2 {
 	font-family: 'League Script', cursive;
 	font-weight: lighter;
@@ -67,4 +73,33 @@ h4 {
 }
 a {
 	color: grey;
+	}
+
+.navbar{
+	position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+	}
+.card {
+	border: 
 }
+.input-group-btn{
+	text-align: right;
+	}
+.whatever{
+	border-color: grey;
+	border-bottom-color: #ACF1D2;
+	margin-top: 256px;
+	}
+.p-description{
+	font-weight: lighter;
+	font-size: 14px;
+	}
+
+.black{
+	border-color: grey;
+	border-top-color: #ACF1D2;
+	color: black;
+	text-align: center;
+	}
