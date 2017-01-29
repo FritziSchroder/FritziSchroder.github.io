@@ -1,0 +1,70 @@
+.green {
+	background-color: green;
+}
+.red {
+	background-color: red;
+}
+p {
+	color: white;
+	font-size: 12px;
+}
+.my-container {
+	padding-left: 0;
+}
+img {
+	width: 100%;
+}
+body {
+	background-color: grey;
+}
+h1 {
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 5px;
+	color: white;
+	font-family: "HelveticaNeue-Light";
+	font-size: 60px;
+}
+.card {
+	background-color: grey;
+	border-color: #ACF1D2;
+}
+.right {
+	border-color: grey;
+	border-top-color: #ACF1D2;
+}
+h2 {
+	font-family: 'League Script', cursive;
+	font-weight: lighter;
+	color: white;
+	font-size: 31px;
+	font
+}
+.quote {
+	color: white;
+	font-weight: lighter;
+	font-size: 10px;
+}
+h3 {
+	color: white;
+}
+h4 {
+	margin-top: 5px;
+	margin-bottom: 10px;
+}
+.card {
+	margin-bottom: 10px;
+}
+.fa {
+	color: #ACF1D2;
+	font-size: 25px;
+}
+.card-footer {
+	text-align: right;
+	color: grey;
+	background-color: grey;
+	border-color: grey;
+}
+a {
+	color: grey;
+}
